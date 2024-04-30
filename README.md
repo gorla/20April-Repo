@@ -2,5 +2,5 @@
 
 This is a new repo for demo purposes
 
-# New section
+# New Section
 This is a new line in this section
